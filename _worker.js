@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // Variables
 const rootDomain = "narxz.my.id"; // Ganti dengan domain utama kalian
 const serviceName = "vpn"; // Ganti dengan nama workers kalian
-const apiKey = "8DWuBli248lF8VNSXkSikNvoO2o8KP9PUn7uPvIN"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const apiKey = "6e9d96f49b7e6d36a04015662de0db5435668"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "dinaroktavian50@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "1713bb08ac20bd97c6646229a1333fa3"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "861877c4ef129df0ece05eef2699f8a7"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
