@@ -1,7 +1,7 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-const rootDomain = "vpn.narxz.my.id"; // Ganti dengan domain utama kalian
+const rootDomain = "narxz.my.id"; // Ganti dengan domain utama kalian
 const serviceName = "vpn"; // Ganti dengan nama workers kalian
 const apiKey = "6e9d96f49b7e6d36a04015662de0db5435668"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "dinaroktavian50@gmail.com"; // Ganti dengan email yang kalian gunakan
