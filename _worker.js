@@ -8,7 +8,7 @@ const apiEmail = "dinaroktavian50@gmail.com"; // Ganti dengan email yang kalian 
 const accountID = "1713bb08ac20bd97c6646229a1333fa3"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "861877c4ef129df0ece05eef2699f8a7"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
-let proxyIP = "146.56.162.25";
+let proxyIP = "";
 let cachedProxyList = [];
 
 // Constant
